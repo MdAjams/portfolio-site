@@ -12,5 +12,4 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 
 ## How to Set It Up Locally
 1. Clone the repository:
-   ```bash
    git clone <repository-link>
